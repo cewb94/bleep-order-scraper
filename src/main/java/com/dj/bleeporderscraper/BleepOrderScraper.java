@@ -24,7 +24,7 @@ public class BleepOrderScraper {
     private static final String OUTPUT_CSV  = "C:\\Users\\Yaqoub Alshatti\\Projects\\DJ\\DJ Mapper\\exports\\Bleep Orders\\bleep_item_export.csv";
 
     private static final String BLEEP_EMAIL    = "abdullahalawadhi1994@gmail.com";
-    private static final String BLEEP_PASSWORD = "DesertJerkyWebsite!";
+    private static final String BLEEP_PASSWORD = "";
 
     private static final String LOGIN_URL = "https://dashboard.trybleep.com/auth/login";
     // NOTE: Base orders URL without any prefix; we append the exact H value
